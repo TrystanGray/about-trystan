@@ -1,3 +1,7 @@
 p {color: red;}
 .background {background-color: gray}
 
+p {
+	font-size: 19px;
+}
+
